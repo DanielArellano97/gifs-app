@@ -1,5 +1,9 @@
 # GifsApp
 
+Aplicación para la busqueda de gifs utilizando la api de https://developers.giphy.com/
+
+Tecnologias usadas: Angular
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
 ## Development server
